@@ -1,0 +1,54 @@
+h3 {
+    border: 1px solid green;
+    color: brown;
+}
+
+.container {
+    height: 200px;
+    width: 500px;
+    background-color: aquamarine;
+    /* border: 2px solid black; */
+    /* border: 2px  groove black; */
+    /* border: 2px inset red; */
+    /* border: 2px outset yellow; */
+    border: 2px double red;
+    /* margin: 100px 0 0 100px;
+    padding: 50px 0px 0px 50px; */
+    /* text-align: center; */
+    /* text-align: left; */
+    /* text-align: right; */
+    /* text-align: justify; */
+    /* text-decoration: overline; */
+    /* text-decoration: line-through; */
+    /* text-decoration: underline overline; */
+    /* text-decoration-color: blue;
+    text-decoration-style: wavy;
+    text-decoration-thickness: 4px; */
+    /* text-transform: uppercase; */
+    text-transform: capitalize;
+    text-indent: 50px;
+    /* letter-spacing: 5px; */
+    /* line-height: 2; */
+    /* color: red; */
+    word-spacing: 10px;
+    /* text-shadow: 0px 1px; */
+    /* font-family: serif; */
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    font-size: 20px;
+    /* font-style: italic; */
+    /* font-style: oblique; */
+}
+
+a:hover {
+    color: pink;
+}
+
+.list {
+    /* list-style-type: circle; */
+    /* list-style-type: armenian; */
+    /* list-style-type: square; */
+    /* list-style-type: upper-roman; */
+    /* list-style-type: lower-latin; */
+    list-style-type: none;
+    
+}
